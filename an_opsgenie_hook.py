@@ -19,12 +19,6 @@ def opsgenie_hook(context):
                 "type": "team"
             }
         ],
-        "visibleTo": [
-            {
-                "id": "SOME-TEAM-ID-HERE",
-                "type": "team"
-            }
-        ],
         "tags": [
             "Data Engineering",
             "Airflow"
